@@ -1,5 +1,5 @@
 # Tableau-Data-Visualization
-Created some beautiful dashboards using Tableau to suport the decisions we make to solve a problem.
+Created some beautiful dashboards using Tableau to support the decisions we make to solve a problem.
 
 The dataset I used over here is international football results until 2020.
 
